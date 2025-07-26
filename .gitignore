@@ -1,0 +1,11 @@
+#Ignore large datasets
+data/creditcard.csv
+
+#Common Python ignores
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+.env
+*.pkl
+*.joblib
+.DS_Store
