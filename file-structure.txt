@@ -1,0 +1,15 @@
+credit-card-fraud-detection/
+│
+├── data/
+│   └── creditcard.csv            
+├── notebooks/
+│   └── eda.ipynb                  
+│   └── model_training.ipynb       
+├── models/
+│   └── fraud_model.pkl            
+├── src/
+│   └── utils.py                   
+│   └── features.py
+├── requirements.txt
+├── README.md
+└── app.py        

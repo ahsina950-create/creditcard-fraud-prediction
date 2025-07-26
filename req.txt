@@ -1,0 +1,10 @@
+pandas  
+numpy
+scikit-learn #modeling and evaluation
+matplotlib
+seaborn
+imbalanced-learn #dealingwith imbalanced datasets- SMOTE
+xgboost #gradient boosting decsison trees
+shap #to explain how the fraud detection model works
+jupyter
+streamlit #builing my web app

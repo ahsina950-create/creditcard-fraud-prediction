@@ -1,0 +1,16 @@
+1- data exploration-dealing with class imbalance
+visualizing clusters(fraus vs non fraud) using pca(or maybe TSNE)
+
+2- normalize 'amount' and 'time'
+
+3- logistics regression, random forest, XGBoost
+isolationforest(anomaly detection )
+
+4- no using accuracy, instead use precision, recall, ROC-AUC
+RECALL- beacuse i dont want to miss any fraud cases
+AUC score closer to 1 = almost no imbalance
+
+5- using SHAP to see why a transaction was fraud 
+
+????????????optimization??????
+
